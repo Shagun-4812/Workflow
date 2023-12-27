@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "CAMPUS ROOTS PROJECT REPORT🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " Analyzed energy consumption, waste management, and related factors on campus. Propose sustainable initiatives: Outlined tailored initiatives, including energy-efficient upgrades and waste reduction strategies.",
+    url: "https://drive.google.com/file/d/16uCDYzXoDQNoJCiAccZtG1EvQsM17InT/view?usp=drivesdk",
   },
   {
-    title: "Web Development for Beginners",
+    title: " IMAGE COMPRESSION",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Wrote code for the  Hadamard transformation and seamlessly integrated it into the image compression process.",
+    url: "https://drive.google.com/file/d/1uymj6soz9qAmLABgaVpmbJejaKVFQIin/view?usp=drivesdk",
   },
   {
-    title: "My Resume Site",
+    title: "PARAMAPADAM: Snakes and Ladders Game with Robots",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project involved creating a Snakes and Ladders game using robots equipped with ATmega 2560 microcontrollers.",
+    url: "https://drive.google.com/file/d/1uSXP0fdS1aF46lz-eRkTfwYit-FXZkxi/view?usp=drivesdk",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "UX/UI Designer",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Initiated the UX design process by actively promoting user-centric methodologies such as Empathize, Define, and Ideate.",
+    url: "https://drive.google.com/drive/folders/1UEdQRnWhVDE_SrOdAC6y1-U2HpkWxWCo",
   },
 ];
 
